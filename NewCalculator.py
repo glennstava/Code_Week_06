@@ -15,4 +15,5 @@ def multiplyingNumbers(noOne, noTwo):
     print(f"{noOne} times {noTwo} equals {noOne * noTwo}")
 
 def dividingNumbers(noOne, noTwo):
+    print("Division")
     print(f"{noOne} divided by {noTwo} equals {noOne / noTwo}")
